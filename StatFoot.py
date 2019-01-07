@@ -1,13 +1,14 @@
-# This code is a personal educational exercise, in an attempt to learn and improve my Python-skills.
-# The program gathers data on football(soccer) clubs and national teams, and simulates matches.
+# This code is a personal educational exercise, to learn and improve my Python-skills.
+# The program gathers data on football(soccer) clubs and national teams, and simulates matches between them.
 # The simulations result in frequency distributions.
 # These distributions can be used to make informed forecasts.
 # Data is collected from FiveThirtyEight's GitHub Soccer API repository.
+# The use of this data is in line with FiveThirtyEight's license for data in this repository, which available here: https://github.com/fivethirtyeight/data/blob/master/LICENSE
 # The intention is not to reproduce FiveThirtyEight's forecasts, which take in consideration more factors.
-# This program makes a forecast for an average match, between two teams.
-# FiveThirtyEight's forecasts are more particular: type of tournament, lineups, injuries, etc.
-# FiveThirtyEight's data can be substituted by up to date statistics on match results.
-# This raw data can be used together with functions to calculate expected goals in an alternative manner.
+# This program makes a general forecast for an average match between two teams.
+# FiveThirtyEight's forecasts are more specific, and take into account: type of tournament, lineups, injuries, etc.
+# FiveThirtyEight's data in this program can be substituted by up to date statistics on match results.
+# This raw data can be used to calculate expected goals in an alternative manner.
 
 # Import data from source and create data frames in pandas.
 from typing import List, Any
