@@ -104,7 +104,7 @@ def country_flag_home():
 
     flag_ht = flag_list[0]
 
-    print(flag_ht)
+    return flag_ht
 
 def print_team_logo_home():
     if spi_global_rankings['name'].str.contains(str(home_team_input)).any():
@@ -162,7 +162,7 @@ def country_flag_road():
 
     flag_rt = flag_list[0]
 
-    print(flag_rt)
+    return flag_rt
 
 def print_team_logo_road():
     if spi_global_rankings['name'].str.contains(str(road_team_input)).any():
