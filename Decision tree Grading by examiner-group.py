@@ -13,7 +13,6 @@ from sklearn.tree import DecisionTreeClassifier
 import pandas as pd
 
 # Data has been generated randomly within previously defined intervals
-# This is the same data. It is presented again just to make it easier to see how it all fits together.
 
 Y = [[7,10,17,10,4,2],[8,12,13,10,4,3],[11,12,13,9,3,3],[6,12,15,10,4,3],[8,11,16,9,4,4],[10,12,13,9,4,3],[9,11,17,11,1,3],[9,12,13,10,3,3],[10,10,15,9,4,2],[9,11,13,10,4,3],[8,11,16,10,1,4],[10,9,15,9,4,3],[10,8,16,8,4,3],[10,11,15,10,2,2],[8,13,13,10,2,4],[10,12,14,9,2,3],[11,10,16,9,1,3],[11,11,14,10,1,3],[9,10,16,8,3,3],[10,9,16,9,3,3]]
 
