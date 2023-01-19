@@ -1,5 +1,5 @@
 
-##This script is an example of a framewor for an analytic hierarchical process for two factors: probability/achievability and effect
+##This script is an example of a framework for an analytic hierarchical process for two factors: probability/achievability and effect
 ##consisting of a model with 450 alternatives, which have and effect for four criteria.
 ##Additionally, the alternatives correspond to 8 organizational sections and 4 thematic categories.
 ##The script produces a report that summarizes the consistency of the analytic hierarchy process for each of the 8 criteria, by calculating
