@@ -1,15 +1,16 @@
 
-##This script is an example of a framework for an analytic hierarchical process for two factors: probability/achievability and effect
-##consisting of a model with 450 alternatives, which have and effect for four criteria.
+##This script is an example of a framework for an analytic hierarchical process for two factors: probability/achievability and effect,
+##within a hierarchical model consisting of 450 alternatives, which have an effect for a total of 4 criteria.
 ##Additionally, the alternatives correspond to 8 organizational sections and 4 thematic categories.
-##The script produces a report that summarizes the consistency of the analytic hierarchy process for each of the 8 criteria, by calculating
+##The script produces a report that summarizes the consistency of the analytic hierarchy process, for each of the 8 criteria, by calculating
 ##the consistency index (CI), consistency ratio (CR), and performing an evaluation of the CI and an evaluation of the CR.
-##Then the script calculates weights for each of the criteria, so that these can be ranked in terms of achievability (probability) and effect.
+##Then, the script calculates weights for each of the criteria, so that these can be ranked in terms of achievability (probability) and effect.
 ##With these aggregate weights, it is possible to calculate synthetic weights for each of the alternatives, and these can also be ranked
-##in terms of achievability and effect. Such a ranking can be used to priorize the alternatives. This information is used to calculated
-##synthetic weights for the importance of each section and for each category.
+##in terms of achievability and effect. Such a ranking can be used to priorize the alternatives. This information is used to calculate
+##synthetic weights for the importance of each section and thematic category.
 ##The weights for criteria, synthetic weights for each alternative, aggregate weights per section and aggregate weights per thematic category
 ##are them presented graphically through plots, with the achievability weight in the x-axis and the effect weight in the y-axis.
+##The model and data are hypothetical and just for illustrative purposes, but the framework can be used to model similar processes.
 
 import pandas as pd
 import numpy as np
