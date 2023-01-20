@@ -24,7 +24,7 @@ from statsmodels.stats.outliers_influence import variance_inflation_factor
 pd.set_option('display.float_format', lambda x:'%.2f'%x)
 
 ## call in data set
-World = pd.read_csv('https://raw.githubusercontent.com/albertovth/postulated-reality/master/data_economic_consequences_covid_EEA.csv', sheet_name='EEA')
+World = pd.read_csv('https://raw.githubusercontent.com/albertovth/postulated-reality/master/data_economic_consequences_covid_EEA.csv')
 
 World1=pd.DataFrame(World)
 
