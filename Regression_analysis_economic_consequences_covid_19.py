@@ -3,7 +3,10 @@
 ##stringency and economic support calculated by the project Our World in Data (URL: https://ourworldindata.org/)
 ##Note that the data was from 2020, and has not been updated. The results are therefore just an illustration and preliminary
 ##The framework for the analysis can be reproduced, but this should be done with better and updated data.
-
+##IMF World Economic Outlook 2019: https://www.imf.org/en/Publications/WEO/Issues/2019/10/01/world-economic-outlook-october-2019
+##IMF World Economic Outlook 2020: https://www.imf.org/en/Publications/WEO/Issues/2020/09/30/world-economic-outlook-october-2020
+##Our World in Data - Stringency Index: https://ourworldindata.org/covid-stringency-index
+##Our World in Data - Economic Support Index: https://ourworldindata.org/covid-income-support-debt-relief
 
 import numpy as np
 import pandas as pd
