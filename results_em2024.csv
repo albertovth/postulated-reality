@@ -1,13 +1,11 @@
-2024-06-14,Germany,Scotland,4,1,UEFA Euro,Munich,Germany,FALSE
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+2024-06-14,Germany,Scotland,5,1,UEFA Euro,Munich,Germany,FALSE
 2024-06-15,Hungary,Switzerland,NA,NA,UEFA Euro,Cologne,Germany,TRUE
 2024-06-15,Spain,Croatia,NA,NA,UEFA Euro,Berlin,Germany,TRUE
 2024-06-15,Italy,Albania,NA,NA,UEFA Euro,Dortmund,Germany,TRUE
-2024-06-15,Colombia,Bolivia,NA,NA,Friendly,Denver,United States,TRUE
-2024-06-15,Ecuador,Honduras,NA,NA,Friendly,Hartford,United States,TRUE
 2024-06-16,Slovenia,Denmark,NA,NA,UEFA Euro,Stuttgart,Germany,TRUE
 2024-06-16,Serbia,England,NA,NA,UEFA Euro,Gelsenkirchen,Germany,TRUE
 2024-06-16,Poland,Netherlands,NA,NA,UEFA Euro,Hamburg,Germany,TRUE
-2024-06-16,Panama,Paraguay,NA,NA,Friendly,Panama City,Panama,FALSE
 2024-06-17,Austria,France,NA,NA,UEFA Euro,Düsseldorf,Germany,TRUE
 2024-06-17,Romania,Ukraine,NA,NA,UEFA Euro,Munich,Germany,TRUE
 2024-06-17,Belgium,Slovakia,NA,NA,UEFA Euro,Frankfurt,Germany,TRUE
