@@ -22,10 +22,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-06-21,Netherlands,France,0,0,UEFA Euro,Leipzig,Germany,TRUE
 2024-06-21,Slovakia,Ukraine,1,2,UEFA Euro,Düsseldorf,Germany,TRUE
 2024-06-21,Peru,Chile,0,0,Copa América,Arlington,United States,TRUE
-2024-06-22,Belgium,Romania,NA,NA,UEFA Euro,Cologne,Germany,TRUE
-2024-06-22,Georgia,Czech Republic,NA,NA,UEFA Euro,Hamburg,Germany,TRUE
-2024-06-22,Turkey,Portugal,NA,NA,UEFA Euro,Dortmund,Germany,TRUE
-2024-06-22,Ecuador,Venezuela,NA,NA,Copa América,Santa Clara,United States,TRUE
+2024-06-22,Belgium,Romania,2,0,UEFA Euro,Cologne,Germany,TRUE
+2024-06-22,Georgia,Czech Republic,1,1,UEFA Euro,Hamburg,Germany,TRUE
+2024-06-22,Turkey,Portugal,0,3,UEFA Euro,Dortmund,Germany,TRUE
+2024-06-22,Ecuador,Venezuela,1,2,Copa América,Santa Clara,United States,TRUE
 2024-06-22,Mexico,Jamaica,NA,NA,Copa América,Houston,United States,TRUE
 2024-06-23,Germany,Switzerland,NA,NA,UEFA Euro,Frankfurt,Germany,FALSE
 2024-06-23,Scotland,Hungary,NA,NA,UEFA Euro,Stuttgart,Germany,TRUE
