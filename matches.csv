@@ -39,8 +39,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-06-25,Denmark,Serbia,NA,NA,UEFA Euro,Munich,Germany,TRUE
 2024-06-25,Netherlands,Austria,2,3,UEFA Euro,Berlin,Germany,TRUE
 2024-06-25,France,Poland,1,1,UEFA Euro,Dortmund,Germany,TRUE
-2024-06-25,Peru,Canada,NA,NA,Copa América,Kansas City,United States,TRUE
-2024-06-25,Chile,Argentina,NA,NA,Copa América,East Rutherford,United States,TRUE
+2024-06-25,Peru,Canada,0,1,Copa América,Kansas City,United States,TRUE
+2024-06-25,Chile,Argentina,0,1,Copa América,East Rutherford,United States,TRUE
 2024-06-26,Slovakia,Romania,NA,NA,UEFA Euro,Frankfurt,Germany,TRUE
 2024-06-26,Ukraine,Belgium,NA,NA,UEFA Euro,Stuttgart,Germany,TRUE
 2024-06-26,Georgia,Portugal,NA,NA,UEFA Euro,Gelsenkirchen,Germany,TRUE
