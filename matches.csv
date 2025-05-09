@@ -1,32 +1,32 @@
 date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
-2025-06-14,Mexico,Dominican Republic,NA,NA,Gold Cup,Inglewood,United States,TRUE
-2025-06-15,United States,Trinidad and Tobago,NA,NA,Gold Cup,San Jose,United States,TRUE
-2025-06-15,Haiti,Saudi Arabia,NA,NA,Gold Cup,San Diego,United States,TRUE
-2025-06-15,Costa Rica,Suriname,NA,NA,Gold Cup,San Diego,United States,TRUE
-2025-06-16,Panama,Guadeloupe,NA,NA,Gold Cup,Carson,United States,TRUE
-2025-06-16,Jamaica,Guatemala,NA,NA,Gold Cup,Carson,United States,TRUE
-2025-06-17,Curacao,El Salvador,NA,NA,Gold Cup,San Jose,United States,TRUE
-2025-06-17,Canada,Honduras,NA,NA,Gold Cup,Vancouver,United States,TRUE
-2025-06-18,Costa Rica,Dominican Republic,NA,NA,Gold Cup,Arlington,United States,TRUE
-2025-06-18,Suriname,Mexico,NA,NA,Gold Cup,Arlington,United States,TRUE
-2025-06-19,Trinidad and Tobago,Haiti,NA,NA,Gold Cup,Houston,United States,TRUE
-2025-06-19,Saudi Arabia,United States,NA,NA,Gold Cup,Austin,United States,TRUE
-2025-06-20,Jamaica,Guadeloupe,NA,NA,Gold Cup,San Jose,United States,TRUE
-2025-06-20,Guatemala,Panama,NA,NA,Gold Cup,Austin,United States,TRUE
-2025-06-21,Curacao,Canada,NA,NA,Gold Cup,Houston,United States,TRUE
-2025-06-21,Honduras,El Salvador,NA,NA,Gold Cup,Houston,United States,TRUE
-2025-06-22,Saudi Arabia,Trinidad and Tobago,NA,NA,Gold Cup,Las Vegas,United States,TRUE
-2025-06-22,United States,Haiti,NA,NA,Gold Cup,Arlington,United States,TRUE
-2025-06-22,Mexico,Costa Rica,NA,NA,Gold Cup,Las Vegas,United States,TRUE
-2025-06-22,Dominican Republic,Suriname,NA,NA,Gold Cup,Arlington,United States,TRUE
-2025-06-24,Panama,Jamaica,NA,NA,Gold Cup,Austin,United States,TRUE
-2025-06-24,Guadeloupe,Guatemala,NA,NA,Gold Cup,Houston,United States,TRUE
-2025-06-24,Honduras,Curacao,NA,NA,Gold Cup,San Jose,United States,TRUE
-2025-06-24,Canada,El Salvador,NA,NA,Gold Cup,Houston,United States,TRUE
-2025-06-28,NA,NA,NA,NA,Gold Cup,Glendale,United States,TRUE
-2025-06-28,NA,NA,NA,NA,Gold Cup,Glendale,United States,TRUE
-2025-06-29,NA,NA,NA,NA,Gold Cup,Minneapolis,United States,TRUE
-2025-06-29,NA,NA,NA,NA,Gold Cup,Minneapolis,United States,TRUE
-2025-07-02,NA,NA,NA,NA,Gold Cup,St. Louis,United States,TRUE
-2025-07-02,NA,NA,NA,NA,Gold Cup,Santa Clara,United States,TRUE
-2025-07-06,NA,NA,NA,NA,Gold Cup,Houston,United States,TRUE
+2025-06-14,Mexico,Dominican Republic,,,Gold Cup,Inglewood,United States,TRUE
+2025-06-15,United States,Trinidad and Tobago,,,Gold Cup,San Jose,United States,TRUE
+2025-06-15,Haiti,Saudi Arabia,,,Gold Cup,San Diego,United States,TRUE
+2025-06-15,Costa Rica,Suriname,,,Gold Cup,San Diego,United States,TRUE
+2025-06-16,Panama,Guadeloupe,,,Gold Cup,Carson,United States,TRUE
+2025-06-16,Jamaica,Guatemala,,,Gold Cup,Carson,United States,TRUE
+2025-06-17,Curacao,El Salvador,,,Gold Cup,San Jose,United States,TRUE
+2025-06-17,Canada,Honduras,,,Gold Cup,Vancouver,United States,TRUE
+2025-06-18,Costa Rica,Dominican Republic,,,Gold Cup,Arlington,United States,TRUE
+2025-06-18,Suriname,Mexico,,,Gold Cup,Arlington,United States,TRUE
+2025-06-19,Trinidad and Tobago,Haiti,,,Gold Cup,Houston,United States,TRUE
+2025-06-19,Saudi Arabia,United States,,,Gold Cup,Austin,United States,TRUE
+2025-06-20,Jamaica,Guadeloupe,,,Gold Cup,San Jose,United States,TRUE
+2025-06-20,Guatemala,Panama,,,Gold Cup,Austin,United States,TRUE
+2025-06-21,Curacao,Canada,,,Gold Cup,Houston,United States,TRUE
+2025-06-21,Honduras,El Salvador,,,Gold Cup,Houston,United States,TRUE
+2025-06-22,Saudi Arabia,Trinidad and Tobago,,,Gold Cup,Las Vegas,United States,TRUE
+2025-06-22,United States,Haiti,,,Gold Cup,Arlington,United States,TRUE
+2025-06-22,Mexico,Costa Rica,,,Gold Cup,Las Vegas,United States,TRUE
+2025-06-22,Dominican Republic,Suriname,,,Gold Cup,Arlington,United States,TRUE
+2025-06-24,Panama,Jamaica,,,Gold Cup,Austin,United States,TRUE
+2025-06-24,Guadeloupe,Guatemala,,,Gold Cup,Houston,United States,TRUE
+2025-06-24,Honduras,Curacao,,,Gold Cup,San Jose,United States,TRUE
+2025-06-24,Canada,El Salvador,,,Gold Cup,Houston,United States,TRUE
+2025-06-28,TBC,TBC,,,Gold Cup,Glendale,United States,TRUE
+2025-06-28,TBC,TBC,,,Gold Cup,Glendale,United States,TRUE
+2025-06-29,TBC,TBC,,,Gold Cup,Minneapolis,United States,TRUE
+2025-06-29,TBC,TBC,,,Gold Cup,Minneapolis,United States,TRUE
+2025-07-02,TBC,TBC,,,Gold Cup,St. Louis,United States,TRUE
+2025-07-02,TBC,TBC,,,Gold Cup,Santa Clara,United States,TRUE
+2025-07-06,TBC,TBC,,,Gold Cup,Houston,United States,TRUE
