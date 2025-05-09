@@ -1,86 +1,32 @@
 date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
-2024-06-14,Germany,Scotland,5,1,UEFA Euro,Munich,Germany,FALSE
-2024-06-15,Hungary,Switzerland,1,3,UEFA Euro,Cologne,Germany,TRUE
-2024-06-15,Spain,Croatia,3,0,UEFA Euro,Berlin,Germany,TRUE
-2024-06-15,Italy,Albania,2,1,UEFA Euro,Dortmund,Germany,TRUE
-2024-06-16,Slovenia,Denmark,1,1,UEFA Euro,Stuttgart,Germany,TRUE
-2024-06-16,Serbia,England,0,1,UEFA Euro,Gelsenkirchen,Germany,TRUE
-2024-06-16,Poland,Netherlands,1,2,UEFA Euro,Hamburg,Germany,TRUE
-2024-06-17,Austria,France,0,1,UEFA Euro,Düsseldorf,Germany,TRUE
-2024-06-17,Romania,Ukraine,3,0,UEFA Euro,Munich,Germany,TRUE
-2024-06-17,Belgium,Slovakia,0,1,UEFA Euro,Frankfurt,Germany,TRUE
-2024-06-18,Turkey,Georgia,3,1,UEFA Euro,Dortmund,Germany,TRUE
-2024-06-18,Portugal,Czech Republic,2,1,UEFA Euro,Leipzig,Germany,TRUE
-2024-06-19,Germany,Hungary,2,0,UEFA Euro,Stuttgart,Germany,FALSE
-2024-06-19,Scotland,Switzerland,1,1,UEFA Euro,Cologne,Germany,TRUE
-2024-06-19,Croatia,Albania,2,2,UEFA Euro,Hamburg,Germany,TRUE
-2024-06-20,Spain,Italy,1,0,UEFA Euro,Gelsenkirchen,Germany,TRUE
-2024-06-20,Slovenia,Serbia,1,1,UEFA Euro,Munich,Germany,TRUE
-2024-06-20,Denmark,England,1,1,UEFA Euro,Frankfurt,Germany,TRUE
-2024-06-20,Argentina,Canada,2,0,Copa América,Atlanta,United States,TRUE
-2024-06-21,Poland,Austria,3,1,UEFA Euro,Berlin,Germany,TRUE
-2024-06-21,Netherlands,France,0,0,UEFA Euro,Leipzig,Germany,TRUE
-2024-06-21,Slovakia,Ukraine,1,2,UEFA Euro,Düsseldorf,Germany,TRUE
-2024-06-21,Peru,Chile,0,0,Copa América,Arlington,United States,TRUE
-2024-06-22,Belgium,Romania,2,0,UEFA Euro,Cologne,Germany,TRUE
-2024-06-22,Georgia,Czech Republic,1,1,UEFA Euro,Hamburg,Germany,TRUE
-2024-06-22,Turkey,Portugal,0,3,UEFA Euro,Dortmund,Germany,TRUE
-2024-06-22,Ecuador,Venezuela,1,2,Copa América,Santa Clara,United States,TRUE
-2024-06-22,Mexico,Jamaica,1,0,Copa América,Houston,United States,TRUE
-2024-06-23,Germany,Switzerland,1,1,UEFA Euro,Frankfurt,Germany,FALSE
-2024-06-23,Scotland,Hungary,0,1,UEFA Euro,Stuttgart,Germany,TRUE
-2024-06-23,United States,Bolivia,2,0,Copa América,Arlington,United States,FALSE
-2024-06-23,Uruguay,Panama,3,1,Copa América,Miami Gardens,United States,TRUE
-2024-06-24,Albania,Spain,0,1,UEFA Euro,Düsseldorf,Germany,TRUE
-2024-06-24,Croatia,Italy,1,1,UEFA Euro,Leipzig,Germany,TRUE
-2024-06-24,Colombia,Paraguay,2,1,Copa América,Houston,United States,TRUE
-2024-06-24,Brazil,Costa Rica,0,0,Copa América,Inglewood,United States,TRUE
-2024-06-25,England,Slovenia,0,0,UEFA Euro,Cologne,Germany,TRUE
-2024-06-25,Denmark,Serbia,0,0,UEFA Euro,Munich,Germany,TRUE
-2024-06-25,Netherlands,Austria,2,3,UEFA Euro,Berlin,Germany,TRUE
-2024-06-25,France,Poland,1,1,UEFA Euro,Dortmund,Germany,TRUE
-2024-06-25,Peru,Canada,0,1,Copa América,Kansas City,United States,TRUE
-2024-06-25,Chile,Argentina,0,1,Copa América,East Rutherford,United States,TRUE
-2024-06-26,Slovakia,Romania,1,1,UEFA Euro,Frankfurt,Germany,TRUE
-2024-06-26,Ukraine,Belgium,0,0,UEFA Euro,Stuttgart,Germany,TRUE
-2024-06-26,Georgia,Portugal,2,0,UEFA Euro,Gelsenkirchen,Germany,TRUE
-2024-06-26,Czech Republic,Turkey,1,2,UEFA Euro,Hamburg,Germany,TRUE
-2024-06-26,NA,NA,NA,NA,Oceania Nations Cup,Port Vila,Vanuatu,TRUE
-2024-06-26,Ecuador,Jamaica,3,1,Copa América,Las Vegas,United States,TRUE
-2024-06-26,Venezuela,Mexico,1,0,Copa América,Inglewood,United States,TRUE
-2024-06-27,United States,Panama,1,2,Copa América,Atlanta,United States,FALSE
-2024-06-27,Uruguay,Bolivia,5,0,Copa América,East Rutherford,United States,TRUE
-2024-06-28,Colombia,Costa Rica,3,0,Copa América,Glendale,United States,TRUE
-2024-06-28,Paraguay,Brazil,1,4,Copa América,Las Vegas,United States,TRUE
-2024-06-29,NA,NA,NA,NA,UEFA Euro,Berlin,Germany,TRUE
-2024-06-29,NA,NA,NA,NA,UEFA Euro,Dortmund,Germany,TRUE
-2024-06-29,Argentina,Peru,NA,NA,Copa América,Miami Gardens,United States,TRUE
-2024-06-29,Canada,Chile,NA,NA,Copa América,Orlando,United States,TRUE
-2024-06-30,NA,NA,NA,NA,UEFA Euro,Gelsenkirchen,Germany,TRUE
-2024-06-30,NA,NA,NA,NA,UEFA Euro,Cologne,Germany,TRUE
-2024-06-30,NA,NA,NA,NA,Oceania Nations Cup,Port Vila,Vanuatu,TRUE
-2024-06-30,Mexico,Ecuador,NA,NA,Copa América,Glendale,United States,TRUE
-2024-06-30,Jamaica,Venezuela,NA,NA,Copa América,Austin,United States,TRUE
-2024-07-01,NA,NA,NA,NA,UEFA Euro,Düsseldorf,Germany,TRUE
-2024-07-01,NA,NA,NA,NA,UEFA Euro,Frankfurt,Germany,TRUE
-2024-07-01,United States,Uruguay,NA,NA,Copa América,Kansas City,United States,FALSE
-2024-07-01,Bolivia,Panama,NA,NA,Copa América,Orlando,United States,TRUE
-2024-07-02,NA,NA,NA,NA,UEFA Euro,Munich,Germany,TRUE
-2024-07-02,NA,NA,NA,NA,UEFA Euro,Leipzig,Germany,TRUE
-2024-07-02,Brazil,Colombia,NA,NA,Copa América,Santa Clara,United States,TRUE
-2024-07-02,Costa Rica,Paraguay,NA,NA,Copa América,Austin,United States,TRUE
-2024-07-04,NA,NA,NA,NA,Copa América,Houston,United States,TRUE
-2024-07-05,NA,NA,NA,NA,UEFA Euro,Stuttgart,Germany,TRUE
-2024-07-05,NA,NA,NA,NA,UEFA Euro,Hamburg,Germany,TRUE
-2024-07-05,NA,NA,NA,NA,Copa América,Arlington,United States,TRUE
-2024-07-06,NA,NA,NA,NA,UEFA Euro,Düsseldorf,Germany,TRUE
-2024-07-06,NA,NA,NA,NA,UEFA Euro,Berlin,Germany,TRUE
-2024-07-06,NA,NA,NA,NA,Copa América,Las Vegas,United States,TRUE
-2024-07-06,NA,NA,NA,NA,Copa América,Glendale,United States,TRUE
-2024-07-09,NA,NA,NA,NA,UEFA Euro,Munich,Germany,TRUE
-2024-07-09,NA,NA,NA,NA,Copa América,East Rutherford,United States,TRUE
-2024-07-10,NA,NA,NA,NA,UEFA Euro,Dortmund,Germany,TRUE
-2024-07-10,NA,NA,NA,NA,Copa América,Charlotte,United States,TRUE
-2024-07-13,NA,NA,NA,NA,Copa América,Charlotte,United States,TRUE
-2024-07-14,NA,NA,NA,NA,UEFA Euro,Berlin,Germany,TRUE
-2024-07-14,NA,NA,NA,NA,Copa América,Miami Gardens,United States,TRUE
+2025-06-14,Mexico,Dominican Republic,,,Gold Cup,Inglewood,United States,True
+2025-06-15,United States,Trinidad and Tobago,,,Gold Cup,San Jose,United States,True
+2025-06-15,Haiti,Saudi Arabia,,,Gold Cup,San Diego,United States,True
+2025-06-15,Costa Rica,Suriname,,,Gold Cup,San Diego,United States,True
+2025-06-16,Panama,Guadeloupe,,,Gold Cup,Carson,United States,True
+2025-06-16,Jamaica,Guatemala,,,Gold Cup,Carson,United States,True
+2025-06-17,Curacao,El Salvador,,,Gold Cup,San Jose,United States,True
+2025-06-17,Canada,Honduras,,,Gold Cup,Vancouver,United States,True
+2025-06-18,Costa Rica,Dominican Republic,,,Gold Cup,Arlington,United States,True
+2025-06-18,Suriname,Mexico,,,Gold Cup,Arlington,United States,True
+2025-06-19,Trinidad and Tobago,Haiti,,,Gold Cup,Houston,United States,True
+2025-06-19,Saudi Arabia,United States,,,Gold Cup,Austin,United States,True
+2025-06-20,Jamaica,Guadeloupe,,,Gold Cup,San Jose,United States,True
+2025-06-20,Guatemala,Panama,,,Gold Cup,Austin,United States,True
+2025-06-21,Curacao,Canada,,,Gold Cup,Houston,United States,True
+2025-06-21,Honduras,El Salvador,,,Gold Cup,Houston,United States,True
+2025-06-22,Saudi Arabia,Trinidad and Tobago,,,Gold Cup,Las Vegas,United States,True
+2025-06-22,United States,Haiti,,,Gold Cup,Arlington,United States,True
+2025-06-22,Mexico,Costa Rica,,,Gold Cup,Las Vegas,United States,True
+2025-06-22,Dominican Republic,Suriname,,,Gold Cup,Arlington,United States,True
+2025-06-24,Panama,Jamaica,,,Gold Cup,Austin,United States,True
+2025-06-24,Guadeloupe,Guatemala,,,Gold Cup,Houston,United States,True
+2025-06-24,Honduras,Curacao,,,Gold Cup,San Jose,United States,True
+2025-06-24,Canada,El Salvador,,,Gold Cup,Houston,United States,True
+2025-06-28,TBC,TBC,,,Gold Cup,Glendale,United States,True
+2025-06-28,TBC,TBC,,,Gold Cup,Glendale,United States,True
+2025-06-29,TBC,TBC,,,Gold Cup,Minneapolis,United States,True
+2025-06-29,TBC,TBC,,,Gold Cup,Minneapolis,United States,True
+2025-07-02,TBC,TBC,,,Gold Cup,St. Louis,United States,True
+2025-07-02,TBC,TBC,,,Gold Cup,Santa Clara,United States,True
+2025-07-06,TBC,TBC,,,Gold Cup,Houston,United States,True
