@@ -1,8 +1,8 @@
 date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
-2025-06-14,Mexico,Dominican Republic,,,Gold Cup,Inglewood,United States,TRUE
-2025-06-15,United States,Trinidad and Tobago,,,Gold Cup,San Jose,United States,TRUE
-2025-06-15,Haiti,Saudi Arabia,,,Gold Cup,San Diego,United States,TRUE
-2025-06-15,Costa Rica,Suriname,,,Gold Cup,San Diego,United States,TRUE
+2025-06-14,Mexico,Dominican Republic,3,2,Gold Cup,Inglewood,United States,TRUE
+2025-06-15,United States,Trinidad and Tobago,5,0,Gold Cup,San Jose,United States,TRUE
+2025-06-15,Haiti,Saudi Arabia,0,1,Gold Cup,San Diego,United States,TRUE
+2025-06-15,Costa Rica,Suriname,4,3,Gold Cup,San Diego,United States,TRUE
 2025-06-16,Panama,Guadeloupe,,,Gold Cup,Carson,United States,TRUE
 2025-06-16,Jamaica,Guatemala,,,Gold Cup,Carson,United States,TRUE
 2025-06-17,Curacao,El Salvador,,,Gold Cup,San Jose,United States,TRUE
