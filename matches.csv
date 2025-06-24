@@ -3,22 +3,22 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-06-15,United States,Trinidad and Tobago,5,0,Gold Cup,San Jose,United States,TRUE
 2025-06-15,Haiti,Saudi Arabia,0,1,Gold Cup,San Diego,United States,TRUE
 2025-06-15,Costa Rica,Suriname,4,3,Gold Cup,San Diego,United States,TRUE
-2025-06-16,Panama,Guadeloupe,,,Gold Cup,Carson,United States,TRUE
-2025-06-16,Jamaica,Guatemala,,,Gold Cup,Carson,United States,TRUE
-2025-06-17,Curacao,El Salvador,,,Gold Cup,San Jose,United States,TRUE
-2025-06-17,Canada,Honduras,,,Gold Cup,Vancouver,United States,TRUE
-2025-06-18,Costa Rica,Dominican Republic,,,Gold Cup,Arlington,United States,TRUE
-2025-06-18,Suriname,Mexico,,,Gold Cup,Arlington,United States,TRUE
-2025-06-19,Trinidad and Tobago,Haiti,,,Gold Cup,Houston,United States,TRUE
-2025-06-19,Saudi Arabia,United States,,,Gold Cup,Austin,United States,TRUE
-2025-06-20,Jamaica,Guadeloupe,,,Gold Cup,San Jose,United States,TRUE
-2025-06-20,Guatemala,Panama,,,Gold Cup,Austin,United States,TRUE
-2025-06-21,Curacao,Canada,,,Gold Cup,Houston,United States,TRUE
-2025-06-21,Honduras,El Salvador,,,Gold Cup,Houston,United States,TRUE
-2025-06-22,Saudi Arabia,Trinidad and Tobago,,,Gold Cup,Las Vegas,United States,TRUE
-2025-06-22,United States,Haiti,,,Gold Cup,Arlington,United States,TRUE
-2025-06-22,Mexico,Costa Rica,,,Gold Cup,Las Vegas,United States,TRUE
-2025-06-22,Dominican Republic,Suriname,,,Gold Cup,Arlington,United States,TRUE
+2025-06-16,Panama,Guadeloupe,5,2,Gold Cup,Carson,United States,TRUE
+2025-06-16,Jamaica,Guatemala,0,1,Gold Cup,Carson,United States,TRUE
+2025-06-17,Curacao,El Salvador,0,0,Gold Cup,San Jose,United States,TRUE
+2025-06-17,Canada,Honduras,6,0,Gold Cup,Vancouver,United States,TRUE
+2025-06-18,Costa Rica,Dominican Republic,2,1,Gold Cup,Arlington,United States,TRUE
+2025-06-18,Suriname,Mexico,0,2,Gold Cup,Arlington,United States,TRUE
+2025-06-19,Trinidad and Tobago,Haiti,1,1,Gold Cup,Houston,United States,TRUE
+2025-06-19,Saudi Arabia,United States,0,1,Gold Cup,Austin,United States,TRUE
+2025-06-20,Jamaica,Guadeloupe,2,1,Gold Cup,San Jose,United States,TRUE
+2025-06-20,Guatemala,Panama,0,1,Gold Cup,Austin,United States,TRUE
+2025-06-21,Curacao,Canada,1,1,Gold Cup,Houston,United States,TRUE
+2025-06-21,Honduras,El Salvador,2,0,Gold Cup,Houston,United States,TRUE
+2025-06-22,Saudi Arabia,Trinidad and Tobago,1,1,Gold Cup,Las Vegas,United States,TRUE
+2025-06-22,United States,Haiti,2,1,Gold Cup,Arlington,United States,TRUE
+2025-06-22,Mexico,Costa Rica,0,0,Gold Cup,Las Vegas,United States,TRUE
+2025-06-22,Dominican Republic,Suriname,0,0,Gold Cup,Arlington,United States,TRUE
 2025-06-24,Panama,Jamaica,,,Gold Cup,Austin,United States,TRUE
 2025-06-24,Guadeloupe,Guatemala,,,Gold Cup,Houston,United States,TRUE
 2025-06-24,Honduras,Curacao,,,Gold Cup,San Jose,United States,TRUE
