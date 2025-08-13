@@ -19,14 +19,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-06-22,United States,Haiti,2,1,Gold Cup,Arlington,United States,TRUE
 2025-06-22,Mexico,Costa Rica,0,0,Gold Cup,Las Vegas,United States,TRUE
 2025-06-22,Dominican Republic,Suriname,0,0,Gold Cup,Arlington,United States,TRUE
-2025-06-24,Panama,Jamaica,,,Gold Cup,Austin,United States,TRUE
-2025-06-24,Guadeloupe,Guatemala,,,Gold Cup,Houston,United States,TRUE
-2025-06-24,Honduras,Curacao,,,Gold Cup,San Jose,United States,TRUE
-2025-06-24,Canada,El Salvador,,,Gold Cup,Houston,United States,TRUE
-2025-06-28,TBC,TBC,,,Gold Cup,Glendale,United States,TRUE
-2025-06-28,TBC,TBC,,,Gold Cup,Glendale,United States,TRUE
-2025-06-29,TBC,TBC,,,Gold Cup,Minneapolis,United States,TRUE
-2025-06-29,TBC,TBC,,,Gold Cup,Minneapolis,United States,TRUE
-2025-07-02,TBC,TBC,,,Gold Cup,St. Louis,United States,TRUE
-2025-07-02,TBC,TBC,,,Gold Cup,Santa Clara,United States,TRUE
-2025-07-06,TBC,TBC,,,Gold Cup,Houston,United States,TRUE
+2025-06-24,Panama,Jamaica,4,1,Gold Cup,Austin,United States,TRUE
+2025-06-24,Guadeloupe,Guatemala,2,3,Gold Cup,Houston,United States,TRUE
+2025-06-24,Honduras,Curacao,2,1,Gold Cup,San Jose,United States,TRUE
+2025-06-24,Canada,El Salvador,2,0,Gold Cup,Houston,United States,TRUE
+2025-06-28,Panama,Honduras,1,1,Gold Cup,Glendale,United States,TRUE
+2025-06-28,Mexico,Saudi Arabia,2,0,Gold Cup,Glendale,United States,TRUE
+2025-06-29,Canada,Guatemala,1,1,Gold Cup,Minneapolis,United States,TRUE
+2025-06-29,USA,Costa Rica,2,2,Gold Cup,Minneapolis,United States,TRUE
+2025-07-02,USA,Guatemala,2,1,Gold Cup,St. Louis,United States,TRUE
+2025-07-02,Mexico,Honduras,1,0,Gold Cup,Santa Clara,United States,TRUE
+2025-07-06,USA,Mexico,1,2,Gold Cup,Houston,United States,TRUE
