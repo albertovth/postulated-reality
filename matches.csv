@@ -1,32 +1,41 @@
 date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
-2025-06-14,Mexico,Dominican Republic,3,2,Gold Cup,Inglewood,United States,TRUE
-2025-06-15,United States,Trinidad and Tobago,5,0,Gold Cup,San Jose,United States,TRUE
-2025-06-15,Haiti,Saudi Arabia,0,1,Gold Cup,San Diego,United States,TRUE
-2025-06-15,Costa Rica,Suriname,4,3,Gold Cup,San Diego,United States,TRUE
-2025-06-16,Panama,Guadeloupe,5,2,Gold Cup,Carson,United States,TRUE
-2025-06-16,Jamaica,Guatemala,0,1,Gold Cup,Carson,United States,TRUE
-2025-06-17,Curacao,El Salvador,0,0,Gold Cup,San Jose,United States,TRUE
-2025-06-17,Canada,Honduras,6,0,Gold Cup,Vancouver,United States,TRUE
-2025-06-18,Costa Rica,Dominican Republic,2,1,Gold Cup,Arlington,United States,TRUE
-2025-06-18,Suriname,Mexico,0,2,Gold Cup,Arlington,United States,TRUE
-2025-06-19,Trinidad and Tobago,Haiti,1,1,Gold Cup,Houston,United States,TRUE
-2025-06-19,Saudi Arabia,United States,0,1,Gold Cup,Austin,United States,TRUE
-2025-06-20,Jamaica,Guadeloupe,2,1,Gold Cup,San Jose,United States,TRUE
-2025-06-20,Guatemala,Panama,0,1,Gold Cup,Austin,United States,TRUE
-2025-06-21,Curacao,Canada,1,1,Gold Cup,Houston,United States,TRUE
-2025-06-21,Honduras,El Salvador,2,0,Gold Cup,Houston,United States,TRUE
-2025-06-22,Saudi Arabia,Trinidad and Tobago,1,1,Gold Cup,Las Vegas,United States,TRUE
-2025-06-22,United States,Haiti,2,1,Gold Cup,Arlington,United States,TRUE
-2025-06-22,Mexico,Costa Rica,0,0,Gold Cup,Las Vegas,United States,TRUE
-2025-06-22,Dominican Republic,Suriname,0,0,Gold Cup,Arlington,United States,TRUE
-2025-06-24,Panama,Jamaica,4,1,Gold Cup,Austin,United States,TRUE
-2025-06-24,Guadeloupe,Guatemala,2,3,Gold Cup,Houston,United States,TRUE
-2025-06-24,Honduras,Curacao,2,1,Gold Cup,San Jose,United States,TRUE
-2025-06-24,Canada,El Salvador,2,0,Gold Cup,Houston,United States,TRUE
-2025-06-29,Panama,Honduras,1,1,Gold Cup,Glendale,United States,TRUE
-2025-06-28,Mexico,Saudi Arabia,2,0,Gold Cup,Glendale,United States,TRUE
-2025-06-29,Canada,Guatemala,1,1,Gold Cup,Minneapolis,United States,TRUE
-2025-06-30,United States,Costa Rica,2,2,Gold Cup,Minneapolis,United States,TRUE
-2025-07-02,United States,Guatemala,2,1,Gold Cup,St. Louis,United States,TRUE
-2025-07-02,Mexico,Honduras,1,0,Gold Cup,Santa Clara,United States,TRUE
-2025-07-06,United States,Mexico,1,2,Gold Cup,Houston,United States,TRUE
+2026-06-11,Mexico,Scotland,,,World Cup 2026,Mexico City,Mexico,TRUE
+2026-06-12,United States,Ukraine,,,World Cup 2026,Los Angeles,United States,TRUE
+2026-06-12,Canada,New Zealand,,,World Cup 2026,Toronto,Canada,TRUE
+2026-06-12,Argentina,Uzbekistan,,,World Cup 2026,Dallas,United States,TRUE
+2026-06-13,France,Saudi Arabia,,,World Cup 2026,Atlanta,United States,TRUE
+2026-06-13,Japan,Paraguay,,,World Cup 2026,Vancouver,Canada,TRUE
+2026-06-13,Spain,Hungary,,,World Cup 2026,Philadelphia,United States,TRUE
+2026-06-14,England,Chile,,,World Cup 2026,Boston,United States,TRUE
+2026-06-14,Germany,Cameroon,,,World Cup 2026,Kansas City,United States,TRUE
+2026-06-14,Netherlands,Australia,,,World Cup 2026,Seattle,United States,TRUE
+2026-06-15,Portugal,Canada,,,World Cup 2026,San Francisco,United States,TRUE
+2026-06-15,Italy,Costa Rica,,,World Cup 2026,Miami,United States,TRUE
+2026-06-15,Uruguay,Poland,,,World Cup 2026,Houston,United States,TRUE
+2026-06-16,Belgium,South Korea,,,World Cup 2026,New York/New Jersey,United States,TRUE
+2026-06-16,Colombia,Sweden,,,World Cup 2026,Dallas,United States,TRUE
+2026-06-16,Denmark,Ghana,,,World Cup 2026,Los Angeles,United States,TRUE
+2026-06-17,Morocco,Austria,,,World Cup 2026,Philadelphia,United States,TRUE
+2026-06-17,Switzerland,Ecuador,,,World Cup 2026,Kansas City,United States,TRUE
+2026-06-17,Nigeria,Czechia,,,World Cup 2026,Seattle,United States,TRUE
+2026-06-18,Senegal,Norway,,,World Cup 2026,San Francisco,United States,TRUE
+2026-06-18,Turkey,Japan,,,World Cup 2026,Atlanta,United States,TRUE
+2026-06-18,Argentina,Saudi Arabia,,,World Cup 2026,Monterrey,Mexico,TRUE
+2026-06-19,Spain,Australia,,,World Cup 2026,Miami,United States,TRUE
+2026-06-19,England,Sweden,,,World Cup 2026,Boston,United States,TRUE
+2026-06-19,Germany,Chile,,,World Cup 2026,New York/New Jersey,United States,TRUE
+2026-06-20,Netherlands,Cameroon,,,World Cup 2026,Vancouver,Canada,TRUE
+2026-06-20,Portugal,New Zealand,,,World Cup 2026,Toronto,Canada,TRUE
+2026-06-20,Italy,Canada,,,World Cup 2026,Guadalajara,Mexico,TRUE
+2026-06-21,Uruguay,Ukraine,,,World Cup 2026,Los Angeles,United States,TRUE
+2026-06-21,Belgium,Paraguay,,,World Cup 2026,Houston,United States,TRUE
+2026-06-21,United States,Poland,,,World Cup 2026,Kansas City,United States,TRUE
+2026-06-22,Colombia,South Korea,,,World Cup 2026,Seattle,United States,TRUE
+2026-06-22,Denmark,Turkey,,,World Cup 2026,Philadelphia,United States,TRUE
+2026-06-22,Morocco,Switzerland,,,World Cup 2026,Dallas,United States,TRUE
+2026-06-23,Austria,Ecuador,,,World Cup 2026,San Francisco,United States,TRUE
+2026-06-23,Nigeria,Norway,,,World Cup 2026,Miami,United States,TRUE
+2026-06-23,Senegal,Czechia,,,World Cup 2026,New York/New Jersey,United States,TRUE
+2026-06-24,Mexico,Portugal,,,World Cup 2026,Mexico City,Mexico,TRUE
+2026-06-24,Canada,Italy,,,World Cup 2026,Monterrey,Mexico,TRUE
+2026-06-24,United States,Japan,,,World Cup 2026,Los Angeles,United States,TRUE
