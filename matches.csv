@@ -1,11 +1,11 @@
 date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
-2026-03-25,Mexico,Scotland,,,World Cup 2026,Mexico City - Azteca,Mexico,TRUE
-2026-03-26,United States,Ukraine,,,World Cup 2026,Los Angeles - SoFi Stadium,United States,TRUE
-2026-03-26,Canada,New Zealand,,,World Cup 2026,Toronto - BMO Field,Canada,TRUE
-2026-03-26,Argentina,Uzbekistan,,,World Cup 2026,Dallas - AT&T Stadium,United States,TRUE
-2026-03-27,France,Saudi Arabia,,,World Cup 2026,Atlanta - Mercedes-Benz Stadium,United States,TRUE
-2026-03-27,Japan,Paraguay,,,World Cup 2026,Vancouver - BC Place,Canada,TRUE
-2026-03-27,Spain,Hungary,,,World Cup 2026,Philadelphia - Lincoln Financial Field,United States,TRUE
+2026-03-25,Mexico,Scotland,2,1,World Cup 2026,Mexico City - Azteca,Mexico,TRUE
+2026-03-26,United States,Ukraine,1,1,World Cup 2026,Los Angeles - SoFi Stadium,United States,TRUE
+2026-03-26,Canada,New Zealand,0,2,World Cup 2026,Toronto - BMO Field,Canada,TRUE
+2026-03-26,Argentina,Uzbekistan,3,0,World Cup 2026,Dallas - AT&T Stadium,United States,TRUE
+2026-03-27,France,Saudi Arabia,2,2,World Cup 2026,Atlanta - Mercedes-Benz Stadium,United States,TRUE
+2026-03-27,Japan,Paraguay,1,1,World Cup 2026,Vancouver - BC Place,Canada,TRUE
+2026-03-27,Spain,Hungary,3,1,World Cup 2026,Philadelphia - Lincoln Financial Field,United States,TRUE
 2026-03-28,England,Chile,,,World Cup 2026,Boston - Gillette Stadium,United States,TRUE
 2026-03-28,Germany,Cameroon,,,World Cup 2026,Kansas City - Arrowhead Stadium,United States,TRUE
 2026-03-28,Netherlands,Australia,,,World Cup 2026,Seattle - Lumen Field,United States,TRUE
