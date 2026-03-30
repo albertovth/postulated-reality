@@ -6,15 +6,15 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-03-27,France,Saudi Arabia,2,2,World Cup 2026,Atlanta - Mercedes-Benz Stadium,United States,TRUE
 2026-03-27,Japan,Paraguay,1,1,World Cup 2026,Vancouver - BC Place,Canada,TRUE
 2026-03-27,Spain,Hungary,3,1,World Cup 2026,Philadelphia - Lincoln Financial Field,United States,TRUE
-2026-03-28,England,Chile,,,World Cup 2026,Boston - Gillette Stadium,United States,TRUE
-2026-03-28,Germany,Cameroon,,,World Cup 2026,Kansas City - Arrowhead Stadium,United States,TRUE
-2026-03-28,Netherlands,Australia,,,World Cup 2026,Seattle - Lumen Field,United States,TRUE
-2026-03-29,Portugal,Canada,,,World Cup 2026,San Francisco - Levi's Stadium,United States,TRUE
-2026-03-29,Italy,Costa Rica,,,World Cup 2026,Miami - Hard Rock Stadium,United States,TRUE
-2026-03-29,Uruguay,Poland,,,World Cup 2026,Houston - NRG Stadium,United States,TRUE
-2026-03-30,Belgium,South Korea,,,World Cup 2026,New York/New Jersey - MetLife Stadium,United States,TRUE
-2026-03-30,Colombia,Sweden,,,World Cup 2026,Dallas - AT&T Stadium,United States,TRUE
-2026-03-30,Denmark,Ghana,,,World Cup 2026,Los Angeles - SoFi Stadium,United States,TRUE
+2026-03-28,England,Chile,2,2,World Cup 2026,Boston - Gillette Stadium,United States,TRUE
+2026-03-28,Germany,Cameroon,1,0,World Cup 2026,Kansas City - Arrowhead Stadium,United States,TRUE
+2026-03-28,Netherlands,Australia,0,4,World Cup 2026,Seattle - Lumen Field,United States,TRUE
+2026-03-29,Portugal,Canada,4,5,World Cup 2026,San Francisco - Levi's Stadium,United States,TRUE
+2026-03-29,Italy,Costa Rica,2,2,World Cup 2026,Miami - Hard Rock Stadium,United States,TRUE
+2026-03-29,Uruguay,Poland,1,0,World Cup 2026,Houston - NRG Stadium,United States,TRUE
+2026-03-30,Belgium,South Korea,1,1,World Cup 2026,New York/New Jersey - MetLife Stadium,United States,TRUE
+2026-03-30,Colombia,Sweden,2,1,World Cup 2026,Dallas - AT&T Stadium,United States,TRUE
+2026-03-30,Denmark,Ghana,1,2,World Cup 2026,Los Angeles - SoFi Stadium,United States,TRUE
 2026-03-31,Morocco,Austria,,,World Cup 2026,Philadelphia - Lincoln Financial Field,United States,TRUE
 2026-03-31,Switzerland,Ecuador,,,World Cup 2026,Kansas City - Arrowhead Stadium,United States,TRUE
 2026-03-31,Nigeria,Czechia,,,World Cup 2026,Seattle - Lumen Field,United States,TRUE
