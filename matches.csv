@@ -21,7 +21,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-06-16,Austria,Jordan,,,World Cup 2026,San Francisco Bay Area - Levi's Stadium,United States,TRUE
 2026-06-17,Ghana,Panama,,,World Cup 2026,Toronto - BMO Field,Canada,TRUE
 2026-06-17,England,Croatia,,,World Cup 2026,Dallas - AT&T Stadium,United States,TRUE
-2026-06-17,Portugal,DR Congo,,,World Cup 2026,Houston - NRG Stadium,United States,TRUE
+2026-06-17,Portugal,Congo DR,,,World Cup 2026,Houston - NRG Stadium,United States,TRUE
 2026-06-17,Uzbekistan,Colombia,,,World Cup 2026,Mexico City - Estadio Azteca,Mexico,TRUE
 2026-06-18,Czechia,South Africa,,,World Cup 2026,Atlanta - Mercedes-Benz Stadium,United States,TRUE
 2026-06-18,Switzerland,Bosnia and Herzegovina,,,World Cup 2026,Los Angeles - SoFi Stadium,United States,TRUE
@@ -46,7 +46,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-06-23,England,Ghana,,,World Cup 2026,Boston - Gillette Stadium,United States,TRUE
 2026-06-23,Panama,Croatia,,,World Cup 2026,Toronto - BMO Field,Canada,TRUE
 2026-06-23,Portugal,Uzbekistan,,,World Cup 2026,Houston - NRG Stadium,United States,TRUE
-2026-06-23,Colombia,DR Congo,,,World Cup 2026,Guadalajara - Estadio Akron,Mexico,TRUE
+2026-06-23,Colombia,Congo DR,,,World Cup 2026,Guadalajara - Estadio Akron,Mexico,TRUE
 2026-06-24,Switzerland,Canada,,,World Cup 2026,Vancouver - BC Place,Canada,TRUE
 2026-06-24,Bosnia and Herzegovina,Qatar,,,World Cup 2026,Seattle - Lumen Field,United States,TRUE
 2026-06-24,Scotland,Brazil,,,World Cup 2026,Miami - Hard Rock Stadium,United States,TRUE
@@ -70,4 +70,4 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-06-27,Algeria,Austria,,,World Cup 2026,Kansas City - Arrowhead Stadium,United States,TRUE
 2026-06-27,Jordan,Argentina,,,World Cup 2026,Dallas - AT&T Stadium,United States,TRUE
 2026-06-27,Colombia,Portugal,,,World Cup 2026,Miami - Hard Rock Stadium,United States,TRUE
-2026-06-27,DR Congo,Uzbekistan,,,World Cup 2026,Atlanta - Mercedes-Benz Stadium,United States,TRUE
+2026-06-27,Congo DR,Uzbekistan,,,World Cup 2026,Atlanta - Mercedes-Benz Stadium,United States,TRUE
