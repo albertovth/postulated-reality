@@ -1,41 +1,73 @@
 date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
-2026-03-25,Mexico,Scotland,2,1,World Cup 2026,Mexico City - Azteca,Mexico,TRUE
-2026-03-26,United States,Ukraine,1,1,World Cup 2026,Los Angeles - SoFi Stadium,United States,TRUE
-2026-03-26,Canada,New Zealand,0,2,World Cup 2026,Toronto - BMO Field,Canada,TRUE
-2026-03-26,Argentina,Uzbekistan,3,0,World Cup 2026,Dallas - AT&T Stadium,United States,TRUE
-2026-03-27,France,Saudi Arabia,2,2,World Cup 2026,Atlanta - Mercedes-Benz Stadium,United States,TRUE
-2026-03-27,Japan,Paraguay,1,1,World Cup 2026,Vancouver - BC Place,Canada,TRUE
-2026-03-27,Spain,Hungary,3,1,World Cup 2026,Philadelphia - Lincoln Financial Field,United States,TRUE
-2026-03-28,England,Chile,2,2,World Cup 2026,Boston - Gillette Stadium,United States,TRUE
-2026-03-28,Germany,Cameroon,1,0,World Cup 2026,Kansas City - Arrowhead Stadium,United States,TRUE
-2026-03-28,Netherlands,Australia,0,4,World Cup 2026,Seattle - Lumen Field,United States,TRUE
-2026-03-29,Portugal,Canada,3,3,World Cup 2026,San Francisco - Levi's Stadium,United States,TRUE
-2026-03-29,Italy,Costa Rica,2,2,World Cup 2026,Miami - Hard Rock Stadium,United States,TRUE
-2026-03-29,Uruguay,Poland,1,0,World Cup 2026,Houston - NRG Stadium,United States,TRUE
-2026-03-30,Belgium,South Korea,1,1,World Cup 2026,New York/New Jersey - MetLife Stadium,United States,TRUE
-2026-03-30,Colombia,Sweden,2,1,World Cup 2026,Dallas - AT&T Stadium,United States,TRUE
-2026-03-30,Denmark,Ghana,1,2,World Cup 2026,Los Angeles - SoFi Stadium,United States,TRUE
-2026-03-31,Morocco,Austria,,,World Cup 2026,Philadelphia - Lincoln Financial Field,United States,TRUE
-2026-03-31,Switzerland,Ecuador,,,World Cup 2026,Kansas City - Arrowhead Stadium,United States,TRUE
-2026-03-31,Nigeria,Czechia,,,World Cup 2026,Seattle - Lumen Field,United States,TRUE
-2026-04-01,Senegal,Norway,,,World Cup 2026,San Francisco - Levi's Stadium,United States,TRUE
-2026-04-01,Turkey,Japan,,,World Cup 2026,Atlanta - Mercedes-Benz Stadium,United States,TRUE
-2026-04-01,Argentina,Saudi Arabia,,,World Cup 2026,Monterrey - Estadio BBVA,Mexico,TRUE
-2026-04-02,Spain,Australia,,,World Cup 2026,Miami - Hard Rock Stadium,United States,TRUE
-2026-04-02,England,Sweden,,,World Cup 2026,Boston - Gillette Stadium,United States,TRUE
-2026-04-02,Germany,Chile,,,World Cup 2026,New York/New Jersey - MetLife Stadium,United States,TRUE
-2026-04-03,Netherlands,Cameroon,,,World Cup 2026,Vancouver - BC Place,Canada,TRUE
-2026-04-03,Portugal,New Zealand,,,World Cup 2026,Toronto - BMO Field,Canada,TRUE
-2026-04-03,Italy,Canada,,,World Cup 2026,Guadalajara - Estadio Akron,Mexico,TRUE
-2026-04-04,Uruguay,Ukraine,,,World Cup 2026,Los Angeles - SoFi Stadium,United States,TRUE
-2026-04-04,Belgium,Paraguay,,,World Cup 2026,Houston - NRG Stadium,United States,TRUE
-2026-04-04,United States,Poland,,,World Cup 2026,Kansas City - Arrowhead Stadium,United States,TRUE
-2026-04-05,Colombia,South Korea,,,World Cup 2026,Seattle - Lumen Field,United States,TRUE
-2026-04-05,Denmark,Turkey,,,World Cup 2026,Philadelphia - Lincoln Financial Field,United States,TRUE
-2026-04-05,Morocco,Switzerland,,,World Cup 2026,Dallas - AT&T Stadium,United States,TRUE
-2026-04-06,Austria,Ecuador,,,World Cup 2026,San Francisco - Levi's Stadium,United States,TRUE
-2026-04-06,Nigeria,Norway,,,World Cup 2026,Miami - Hard Rock Stadium,United States,TRUE
-2026-04-06,Senegal,Czechia,,,World Cup 2026,New York/New Jersey - MetLife Stadium,United States,TRUE
-2026-04-07,Mexico,Portugal,,,World Cup 2026,Mexico City - Azteca,Mexico,TRUE
-2026-04-07,Canada,Italy,,,World Cup 2026,Monterrey - Estadio BBVA,Mexico,TRUE
-2026-04-07,United States,Japan,,,World Cup 2026,Los Angeles - SoFi Stadium,United States,TRUE
+2026-06-11,Mexico,South Africa,,,World Cup 2026,Mexico City - Estadio Azteca,Mexico,TRUE
+2026-06-11,South Korea,Czechia,,,World Cup 2026,Guadalajara - Estadio Akron,Mexico,TRUE
+2026-06-12,Canada,Bosnia and Herzegovina,,,World Cup 2026,Toronto - BMO Field,Canada,TRUE
+2026-06-12,United States,Paraguay,,,World Cup 2026,Los Angeles - SoFi Stadium,United States,TRUE
+2026-06-13,Qatar,Switzerland,,,World Cup 2026,San Francisco Bay Area - Levi's Stadium,United States,TRUE
+2026-06-13,Brazil,Morocco,,,World Cup 2026,New York/New Jersey - MetLife Stadium,United States,TRUE
+2026-06-13,Haiti,Scotland,,,World Cup 2026,Boston - Gillette Stadium,United States,TRUE
+2026-06-13,Australia,Turkey,,,World Cup 2026,Vancouver - BC Place,Canada,TRUE
+2026-06-14,Germany,Curacao,,,World Cup 2026,Houston - NRG Stadium,United States,TRUE
+2026-06-14,Netherlands,Japan,,,World Cup 2026,Dallas - AT&T Stadium,United States,TRUE
+2026-06-14,Ivory Coast,Ecuador,,,World Cup 2026,Philadelphia - Lincoln Financial Field,United States,TRUE
+2026-06-14,Sweden,Tunisia,,,World Cup 2026,Monterrey - Estadio BBVA,Mexico,TRUE
+2026-06-15,Spain,Cape Verde,,,World Cup 2026,Atlanta - Mercedes-Benz Stadium,United States,TRUE
+2026-06-15,Belgium,Egypt,,,World Cup 2026,Seattle - Lumen Field,United States,TRUE
+2026-06-15,Saudi Arabia,Uruguay,,,World Cup 2026,Miami - Hard Rock Stadium,United States,TRUE
+2026-06-15,Iran,New Zealand,,,World Cup 2026,Los Angeles - SoFi Stadium,United States,TRUE
+2026-06-16,France,Senegal,,,World Cup 2026,New York/New Jersey - MetLife Stadium,United States,TRUE
+2026-06-16,Iraq,Norway,,,World Cup 2026,Boston - Gillette Stadium,United States,TRUE
+2026-06-16,Argentina,Algeria,,,World Cup 2026,Kansas City - Arrowhead Stadium,United States,TRUE
+2026-06-16,Austria,Jordan,,,World Cup 2026,San Francisco Bay Area - Levi's Stadium,United States,TRUE
+2026-06-17,Ghana,Panama,,,World Cup 2026,Toronto - BMO Field,Canada,TRUE
+2026-06-17,England,Croatia,,,World Cup 2026,Dallas - AT&T Stadium,United States,TRUE
+2026-06-17,Portugal,DR Congo,,,World Cup 2026,Houston - NRG Stadium,United States,TRUE
+2026-06-17,Uzbekistan,Colombia,,,World Cup 2026,Mexico City - Estadio Azteca,Mexico,TRUE
+2026-06-18,Czechia,South Africa,,,World Cup 2026,Atlanta - Mercedes-Benz Stadium,United States,TRUE
+2026-06-18,Switzerland,Bosnia and Herzegovina,,,World Cup 2026,Los Angeles - SoFi Stadium,United States,TRUE
+2026-06-18,Canada,Qatar,,,World Cup 2026,Vancouver - BC Place,Canada,TRUE
+2026-06-18,Mexico,South Korea,,,World Cup 2026,Guadalajara - Estadio Akron,Mexico,TRUE
+2026-06-19,United States,Australia,,,World Cup 2026,Seattle - Lumen Field,United States,TRUE
+2026-06-19,Scotland,Morocco,,,World Cup 2026,Boston - Gillette Stadium,United States,TRUE
+2026-06-19,Brazil,Haiti,,,World Cup 2026,Philadelphia - Lincoln Financial Field,United States,TRUE
+2026-06-19,Turkey,Paraguay,,,World Cup 2026,San Francisco Bay Area - Levi's Stadium,United States,TRUE
+2026-06-20,Netherlands,Sweden,,,World Cup 2026,Houston - NRG Stadium,United States,TRUE
+2026-06-20,Germany,Ivory Coast,,,World Cup 2026,Toronto - BMO Field,Canada,TRUE
+2026-06-20,Ecuador,Curacao,,,World Cup 2026,Kansas City - Arrowhead Stadium,United States,TRUE
+2026-06-20,Tunisia,Japan,,,World Cup 2026,Monterrey - Estadio BBVA,Mexico,TRUE
+2026-06-21,Spain,Saudi Arabia,,,World Cup 2026,Atlanta - Mercedes-Benz Stadium,United States,TRUE
+2026-06-21,Belgium,Iran,,,World Cup 2026,Los Angeles - SoFi Stadium,United States,TRUE
+2026-06-21,Uruguay,Cape Verde,,,World Cup 2026,Miami - Hard Rock Stadium,United States,TRUE
+2026-06-21,New Zealand,Egypt,,,World Cup 2026,Vancouver - BC Place,Canada,TRUE
+2026-06-22,France,Iraq,,,World Cup 2026,Philadelphia - Lincoln Financial Field,United States,TRUE
+2026-06-22,Norway,Senegal,,,World Cup 2026,New York/New Jersey - MetLife Stadium,United States,TRUE
+2026-06-22,Argentina,Austria,,,World Cup 2026,Dallas - AT&T Stadium,United States,TRUE
+2026-06-22,Jordan,Algeria,,,World Cup 2026,San Francisco Bay Area - Levi's Stadium,United States,TRUE
+2026-06-23,England,Ghana,,,World Cup 2026,Boston - Gillette Stadium,United States,TRUE
+2026-06-23,Panama,Croatia,,,World Cup 2026,Toronto - BMO Field,Canada,TRUE
+2026-06-23,Portugal,Uzbekistan,,,World Cup 2026,Houston - NRG Stadium,United States,TRUE
+2026-06-23,Colombia,DR Congo,,,World Cup 2026,Guadalajara - Estadio Akron,Mexico,TRUE
+2026-06-24,Switzerland,Canada,,,World Cup 2026,Vancouver - BC Place,Canada,TRUE
+2026-06-24,Bosnia and Herzegovina,Qatar,,,World Cup 2026,Seattle - Lumen Field,United States,TRUE
+2026-06-24,Scotland,Brazil,,,World Cup 2026,Miami - Hard Rock Stadium,United States,TRUE
+2026-06-24,Morocco,Haiti,,,World Cup 2026,Atlanta - Mercedes-Benz Stadium,United States,TRUE
+2026-06-24,Czechia,Mexico,,,World Cup 2026,Mexico City - Estadio Azteca,Mexico,TRUE
+2026-06-24,South Africa,South Korea,,,World Cup 2026,Monterrey - Estadio BBVA,Mexico,TRUE
+2026-06-25,Curacao,Ivory Coast,,,World Cup 2026,Philadelphia - Lincoln Financial Field,United States,TRUE
+2026-06-25,Ecuador,Germany,,,World Cup 2026,New York/New Jersey - MetLife Stadium,United States,TRUE
+2026-06-25,Japan,Sweden,,,World Cup 2026,Dallas - AT&T Stadium,United States,TRUE
+2026-06-25,Tunisia,Netherlands,,,World Cup 2026,Kansas City - Arrowhead Stadium,United States,TRUE
+2026-06-25,Turkey,United States,,,World Cup 2026,Los Angeles - SoFi Stadium,United States,TRUE
+2026-06-25,Paraguay,Australia,,,World Cup 2026,San Francisco Bay Area - Levi's Stadium,United States,TRUE
+2026-06-26,Norway,France,,,World Cup 2026,Boston - Gillette Stadium,United States,TRUE
+2026-06-26,Senegal,Iraq,,,World Cup 2026,Toronto - BMO Field,Canada,TRUE
+2026-06-26,Egypt,Iran,,,World Cup 2026,Seattle - Lumen Field,United States,TRUE
+2026-06-26,New Zealand,Belgium,,,World Cup 2026,Vancouver - BC Place,Canada,TRUE
+2026-06-26,Cape Verde,Saudi Arabia,,,World Cup 2026,Houston - NRG Stadium,United States,TRUE
+2026-06-26,Uruguay,Spain,,,World Cup 2026,Guadalajara - Estadio Akron,Mexico,TRUE
+2026-06-27,Panama,England,,,World Cup 2026,New York/New Jersey - MetLife Stadium,United States,TRUE
+2026-06-27,Croatia,Ghana,,,World Cup 2026,Philadelphia - Lincoln Financial Field,United States,TRUE
+2026-06-27,Algeria,Austria,,,World Cup 2026,Kansas City - Arrowhead Stadium,United States,TRUE
+2026-06-27,Jordan,Argentina,,,World Cup 2026,Dallas - AT&T Stadium,United States,TRUE
+2026-06-27,Colombia,Portugal,,,World Cup 2026,Miami - Hard Rock Stadium,United States,TRUE
+2026-06-27,DR Congo,Uzbekistan,,,World Cup 2026,Atlanta - Mercedes-Benz Stadium,United States,TRUE
